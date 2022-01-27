@@ -1,0 +1,5 @@
+div div {
+  display: inline-block;
+  grid-column: 3;
+}
+
